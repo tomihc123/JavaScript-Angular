@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRxobO/bAs1EnY6yJxh68hH8ik574JcwGYElXljlGA0IAYrTCqi64dIlplysdqG3M9bS6sn94mvZdFnZUDakcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thuecas\\Desktop\\Examen2Evaluacion\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thuecas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thuecas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\thuecas\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
